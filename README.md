@@ -90,3 +90,24 @@ Design an algorithm and write a program to concatenate two circularly linked lis
 ## Question 3 :
 Write an algorithm and a program that will split a circularly linked list into two circularly linked list provided position from where circular linked list has to be splitted.
 
+# Week 10 :
+## Question 1 :
+ Write an algorithm that will split a linked list into two linked lists, so that successive nodes go to different lists. Odd numbered nodes to the first list while even numbered nodes to the second list.
+
+## Question 2 :
+Given a linked list and a number n, design an algorithm and write a program to find the value at the n'th node from end of this linked list.
+
+## Question 3 :
+Write a program that will reverse a linked list only by traversing it once and without using  extra space.
+
+
+# Week 11 :
+## Question 1 :
+ Design an algorithm to implement binary trees. Write a program which implements following basic operations on binary tree: a) b) c) d) e) f) CreateTree() - creates a root node InsertNode() - insert a node in tree DeleteNode() - delete a node from tree FindHeight() - find the height of tree FindSize() - find number of nodes in tree Search() - search whether given specific element present in tree or not.
+
+## Question 2 :
+Write an algorithm and a program to implement following types of traversing in the tree: a) inorder() - (1) traverse left subtree, (2) traverse root, (3) traverse right subtree b) postorder() - (1) traverse root, (2) traverse left subtree, (3) traverse right subtree c) preorder() - (1) traverse left subtree, (2) traverse right subtree, (3) traverse root
+
+## Question 3 :
+For an expression in the form of binary tree, infix representation of the expression is given in the form of character array.. Design an algorithm and a program to convert infix expression of this tree to postfix expression. Postfix representation of expression should follow BODMAS rule.
+
